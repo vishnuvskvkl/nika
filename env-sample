@@ -1,0 +1,13 @@
+api_openai = "sk-"
+model_name = ""
+
+api_groq = "gk-"
+model_groq = ""
+
+#database postgres
+POSTGRES_HOST = 'localhost'
+POSTGRES_PORT = 5432
+POSTGRES_USER = 'postgres'
+POSTGRES_PASSWORD = '1234'
+POSTGRES_DB = 'nika'
+POSTGRES_SCHEMA = 'superstore'
